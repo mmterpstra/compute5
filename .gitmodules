@@ -1,0 +1,6 @@
+[submodule "molgenis-c5-varscanCnv"]
+	path = molgenis-c5-varscanCnv
+	url = https://github.com/mmterpstra/molgenis-c5-varscanCnv.git
+[submodule "molgenis-c5-RnaGemini"]
+	path = molgenis-c5-RnaGemini
+	url = https://github.com/mmterpstra/molgenis-c5-RnaGemini.git
